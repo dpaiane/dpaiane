@@ -13,7 +13,7 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   
-<img position=left height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img position=center height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img position=left height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
 <img position=left height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img position=left height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />

@@ -1,6 +1,7 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+<i class="devicon-arduino-plain-wordmark "></i>
+                 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dpaiane&show_icons=true&theme=dark"

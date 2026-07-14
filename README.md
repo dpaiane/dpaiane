@@ -22,6 +22,7 @@
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />                       
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php.svg" />
 </p>         
           
           
